@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 nav{
-    background-color: #fb8500;
+    background-color: #D7D7D9;
     padding: 10px 60px;
     display: flex;
     justify-content: space-between;
@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('image/35103.jpg');
+    background: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('image/snowy-mountain-peak.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -222,7 +222,7 @@ label.light {
 }
 
 .background {
-    background-image: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('image/35103.jpg');
+    background-image: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('image/snowy-mountain-peak.jpg');
 }
 
 .box {
@@ -334,17 +334,17 @@ body {
 }
   
 .sobre{
-    background-color: #ffb703;
+    background-color: #3F76A6;
     color: #010101;
     }
   
 .sobre{
-    background-color: #ffb703;
+    background-color: #3F76A6;
     color: #000000;
 }
   
 .sobre{
-    background-color: #ffb703;
+    background-color: #3F76A6;
     color: #000000;
     line-height: 2;
 }
@@ -355,6 +355,6 @@ body {
 }
   
 .second-container {
-    background-image: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('image/35103.jpg');
+    background-image: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('image/snowy-mountain-peak.jpg');
     padding: 100px;
 }
