@@ -225,6 +225,18 @@ label.light {
     background-image: url('image/beautiful-shot-mountainous-area-covered-with-snow-surrounded-by-forests.jpg');
 }	
 
+.backfix {
+    background-color: #D7D7D9;
+}
+
+.backgroundprice {
+        background-image: linear-gradient(rgba(0,0,0,0.281), rgba(0,0,0,0.308)), url('/image/aurora-borealis-landscape-sea.jpg');
+        height: 100vh; 
+        background-size: cover; 
+        background-repeat: no-repeat; 
+    
+}
+
 .background {
     background-image: linear-gradient(rgba(0,0,0,0.281), rgba(0,0,0,0.308)), url('image/beautiful-shot-mountainous-area-covered-with-snow-surrounded-by-forests.jpg');
     height: 100vh; 
@@ -336,7 +348,7 @@ label.light {
   }
   
   tr:nth-child(even) {
-    background: #F2E9BD;
+    background: #5FCDD9;
   }
   
   tr:hover {
